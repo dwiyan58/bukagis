@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Tanjung Pendam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614,
+          -2.761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bandara H.A.S. Hanandjoeddin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.752,
+          -2.745
+        ]
+      }
+    }
+  ]
+}

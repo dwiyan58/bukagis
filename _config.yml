@@ -1,0 +1,15 @@
+title: Situs Saya
+description: Blog sederhana dengan halaman peta
+url: https://example.com   # ganti dengan domainmu nanti
+theme: null
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /:categories/:title/
+# Opsi tema minimal, biarkan default untuk pemula
+minimal_mistakes_skin: default
+markdown: kramdown
