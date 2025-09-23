@@ -1,7 +1,7 @@
 title: BUKA GIS
 description: Tempat sharing tips n trick mengelola data spasial
-url: https://dwiyan58.github.io/bukagis/  # ganti dengan domainmu nanti
-baseurl: /bukagis
+url: https://bukagis.web.id
+baseurl: "" 
 theme: null
 remote_theme: mmistakes/minimal-mistakes
 
