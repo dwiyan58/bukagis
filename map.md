@@ -3,7 +3,6 @@ layout: single
 title: Peta Lokasi
 permalink: /map/
 ---
-
 <div id="map" style="height:70vh"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -16,7 +15,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19, attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
-fetch('/data/lokasi.geojson')
+fetch('{{ "/data/lokasi.geojson" | relative_url }}')
   .then(r => r.json())
   .then(geo => {
     const layer = L.geoJSON(geo, {
