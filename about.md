@@ -12,5 +12,5 @@ Spesialis GIS yang senang bikin peta *dipakai*, bukan cuma dipajang. Fokus saya:
 
 
 ### Kontak
-Email: [nama@domainmu.com](mailto:nama@domainmu.com)  
+Email: [dwiyanananda58@gmail.com](mailto:dwiyanananda58@gmail.com)  
 WhatsApp: [chat langsung](https://wa.me/62XXXXXXXXXX)
