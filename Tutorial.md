@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tutorial
-permalink: /blog/
+permalink: /tutorial/
 author_profile: false
 classes: wide
 ---
