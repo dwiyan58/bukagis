@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Blog
+title: Tutorial
 permalink: /blog/
 author_profile: false
 classes: wide

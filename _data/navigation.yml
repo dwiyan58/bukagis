@@ -1,8 +1,8 @@
 main:
   - title: "Beranda"
     url: /
-  - title: "Blog"
-    url: /blog/
+  - title: "Tutorial"
+    url: /tutorial/
   - title: "Peta"
     url: /map/
   - title: "Tentang"
