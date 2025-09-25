@@ -9,9 +9,4 @@ main:
     url: /about/
   - title: "Produk"
     url: /produk/
-    children:
-      - title: "Teh Tarik"
-        url: /produk/teh-tarik/
-      - title: "Bakmie"
-        url: /produk/bakmie/
-
+    
