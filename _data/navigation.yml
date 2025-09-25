@@ -1,5 +1,5 @@
 main:
-  - title: "Beranda"
+  - title: "Home"
     url: /
   - title: "Tutorial"
     url: /tutorial/
