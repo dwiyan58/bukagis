@@ -1,1 +1,17 @@
+main:
+  - title: "Beranda"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Peta"
+    url: /map/
+  - title: "Tentang"
+    url: /about/
+  - title: "Produk"
+    url: /produk/
+    children:
+      - title: "Teh Tarik"
+        url: /produk/teh-tarik/
+      - title: "Bakmie"
+        url: /produk/bakmie/
 
