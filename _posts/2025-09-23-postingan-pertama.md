@@ -12,5 +12,5 @@ Halo Bukagiser hari ini saya mau sharing untuk membuat label mU dan BT secara ot
   src="https://www.youtube.com/embed/pUadQcq7ZTs"
   title="Tutorial QGIS"
   allowfullscreen
-  style="width:100%;aspect-ratio:16/9;border:0"></iframe>
+  style="width:25%;aspect-ratio:16/9;border:0"></iframe>
   
